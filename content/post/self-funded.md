@@ -1,14 +1,16 @@
 +++
 date = "2015-12-16T22:39:53-06:00"
 author = "Parag Patel"
-description = "What The Benefits Of Self Funding Are"
+description = "Benefits of self funding"
 tags = ["funding", "startups"]
 title = "Self-Funded"
 type = "post"
-
 +++
 
-## Efficancy
+## Self-Funded
 
-To be really self-efficient you have to be self-funded.
+In this environment of excess capital it can sometimes go against the grain to be self-funded.  Strangely most people who have bootstrapped businesses before are 
 
+```Go
+var x = 1
+```
