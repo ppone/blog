@@ -1,13 +1,12 @@
 +++
 date = "2015-12-16T22:39:53-06:00"
 author = "Parag Patel"
-description = "Benefits of self funding"
-tags = ["funding", "startups","revenue funded"]
+description = "Benefits Of Self Funding"
+tags = ["Funding", "Startups","Revenue Funded"]
 title = "Zero To Ten"
 type = "post"
 +++
 
-##Draft
 In this environment of excess capital it can sometimes go against the grain to be self-funded.  Strangely most people who have bootstrapped businesses before seem to be also advocating for startups to take capital.
 
 This can be quite dangerous.  With funding you can build many facets of business except for the most important ones.

@@ -1,0 +1,17 @@
++++
+date = "2016-07-31T11:14:35-05:00"
+description = "Benefits of using a SaaS Cloud offering"
+tags = ["Cloud", "SaaS","Application"]
+title = "5 Reasons Why Your Business Should Use A Modern SaaS Cloud Offering"
+type = "post"
++++
+
+**Cost** - The overall total cost of the SaaS solution will be much lower than internally developing the equivalent system or outsourcing the development.
+
+**Quality**  - A SaaS solution might be used by thousands of customers, and so many edge cases are handled and software bugs are squashed as soon as they are discovered.  A custom developed solution will not have gone through the same level of user testing, and so your business users might encounter many problems, and you will encounter a costly bill to fix those issues.
+
+**Maintenance** - A SaaS solution will continuously update and maintain their offering; patching security issues and fixing bugs.  You do not need to allocate resources or contract outside resources to this endeavor.  In addition you get new features and functionality at no additional cost.
+
+**Availability** - No installation necessary, just load the service through your web browser and you are good to go.  You can use the service anytime, anywhere, and from any device.  The no installation also means your IT staff save time in trying to debug installation issues.
+
+**Interoperability** -  Modern SaaS offerings usually come with a API giving you the ability to connect the service with any of your internal systems.  You do not have to worry about data lock in.  Many SaaS companies provide a well documented API, and open source API clients in popular programming languages, so your integration work moves quickly.  They might also offer some plug and play integrations (no custom development needed) with other popular SaaS services.
