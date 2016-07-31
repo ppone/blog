@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://ppone.github.io"
+baseurl = "http://paragmpatel.com/"
 
 # Site title
 title = "Thoughtful Insights"
@@ -43,7 +43,7 @@ disqusShortname = "thoughtfulinsights"
 [params]
     # You can use markdown here.
       brand = "Parag Patel"
-      topline = "Co-founder of <a href=\"https://invoiced.com\">Invoiced</a>"
+      topline = "Entrepreneur & Co-founder of <a href=\"https://invoiced.com\">Invoiced</a>"
       ootline = "code with <i class='fa fa-heart'></i>"
 
     # Sidebar position
